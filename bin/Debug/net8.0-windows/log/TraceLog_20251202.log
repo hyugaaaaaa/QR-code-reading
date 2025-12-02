@@ -1,0 +1,3 @@
+"2025/12/02","09:48:45:359","[Fatal]","txtQRCode_KeyDown","QRコードの値が入力されていません。
+   at QRtoCSVSystem.FormQRtoCSV.CreateCsvData() in C:\Users\User\Downloads\QRコード読取CSV発行システム\QRコード読取CSV発行システム\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 94
+   at QRtoCSVSystem.FormQRtoCSV.txtQRCode_KeyDown(Object sender, KeyEventArgs e) in C:\Users\User\Downloads\QRコード読取CSV発行システム\QRコード読取CSV発行システム\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 37"

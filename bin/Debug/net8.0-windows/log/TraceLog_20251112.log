@@ -1,0 +1,24 @@
+"2025/11/12","11:05:50:653","[Fatal]","txtQRCode_KeyDown","規定のフォルダが見つかりません: D:\kenpindata
+   at QRtoCSVSystem.FormQRtoCSV.PostCsv() in C:\Users\TANAC\Desktop\Work\Tanacツール\QRコード読取CSV発行システム\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 148
+   at QRtoCSVSystem.FormQRtoCSV.txtQRCode_KeyDown(Object sender, KeyEventArgs e) in C:\Users\TANAC\Desktop\Work\Tanacツール\QRコード読取CSV発行システム\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 44"
+"2025/11/12","11:05:53:920","[Fatal]","txtQRCode_KeyDown","規定のフォルダが見つかりません: D:\kenpindata
+   at QRtoCSVSystem.FormQRtoCSV.PostCsv() in C:\Users\TANAC\Desktop\Work\Tanacツール\QRコード読取CSV発行システム\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 148
+   at QRtoCSVSystem.FormQRtoCSV.txtQRCode_KeyDown(Object sender, KeyEventArgs e) in C:\Users\TANAC\Desktop\Work\Tanacツール\QRコード読取CSV発行システム\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 44"
+"2025/11/12","12:41:46:996","[Fatal]","txtQRCode_KeyDown","規定のフォルダが見つかりません: \\SampleApp\kenpindata。config.iniを確認してください。
+   at QRtoCSVSystem.FormQRtoCSV.PostCsv() in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 163
+   at QRtoCSVSystem.FormQRtoCSV.txtQRCode_KeyDown(Object sender, KeyEventArgs e) in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 47"
+"2025/11/12","12:42:07:002","[Fatal]","txtQRCode_KeyDown","規定のフォルダが見つかりません: \\SampleApp\kenpindata。config.iniを確認してください。
+   at QRtoCSVSystem.FormQRtoCSV.PostCsv() in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 163
+   at QRtoCSVSystem.FormQRtoCSV.txtQRCode_KeyDown(Object sender, KeyEventArgs e) in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 47"
+"2025/11/12","12:42:27:665","[Fatal]","txtQRCode_KeyDown","規定のフォルダが見つかりません: \\SampleApp\kenpindata。config.iniを確認してください。
+   at QRtoCSVSystem.FormQRtoCSV.PostCsv() in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 163
+   at QRtoCSVSystem.FormQRtoCSV.txtQRCode_KeyDown(Object sender, KeyEventArgs e) in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 47"
+"2025/11/12","12:42:57:888","[Fatal]","txtQRCode_KeyDown","規定のフォルダが見つかりません: \\SampleApp\kenpindata。config.iniを確認してください。
+   at QRtoCSVSystem.FormQRtoCSV.PostCsv() in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 163
+   at QRtoCSVSystem.FormQRtoCSV.txtQRCode_KeyDown(Object sender, KeyEventArgs e) in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 47"
+"2025/11/12","12:46:20:506","[Fatal]","txtQRCode_KeyDown","規定のフォルダが見つかりません: \\SampleApp\kenpindata。config.iniを確認してください。
+   at QRtoCSVSystem.FormQRtoCSV.PostCsv() in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 163
+   at QRtoCSVSystem.FormQRtoCSV.txtQRCode_KeyDown(Object sender, KeyEventArgs e) in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 47"
+"2025/11/12","12:47:36:339","[Fatal]","txtQRCode_KeyDown","規定のフォルダが見つかりません: \\SampleApp\kenpindata。config.iniを確認してください。
+   at QRtoCSVSystem.FormQRtoCSV.PostCsv() in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 163
+   at QRtoCSVSystem.FormQRtoCSV.txtQRCode_KeyDown(Object sender, KeyEventArgs e) in C:\Users\TANAC\Desktop\QRtoCSVSystem\QRtoCSVSystem\FormQRtoCSV.cs:line 47"
